@@ -21,7 +21,7 @@ An advanced deep learning system for food recognition and classification using s
 - **And many more...**
 
 ## Requirements
-```----------------------------------------
+```-------
 tensorflow>=2.13.0
 numpy>=1.21.0
 pandas>=1.3.0
