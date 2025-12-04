@@ -12,7 +12,7 @@ An advanced deep learning system for food recognition and classification using s
 - **Batch Processing**: Classify multiple images simultaneously
 - **Web Integration**: URL image classification support
 - **Model Persistence**: Save and load trained models
-
+--------------------
 ## Supported Food Classes (101 Categories)
 - **Appetizers**: Bruschetta, Deviled eggs, Edamame, Escargots, Guacamole
 - **Main Courses**: Pizza, Hamburger, Steak, Grilled salmon, Chicken curry
