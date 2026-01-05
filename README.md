@@ -2,7 +2,7 @@
 
 ## Overview
 An advanced deep learning system for food recognition and classification using state-of-the-art convolutional neural networks. The system can identify 101 different food categories with high accuracy and provides nutrition information and recommendations.
-
+---
 ## Features
 - **Multi-Model Support**: EfficientNet, ResNet, MobileNet architectures
 - **Transfer Learning**: Pre-trained models for fast training and high accuracy
